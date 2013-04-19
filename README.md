@@ -1,4 +1,4 @@
-Ardunio-IRremote
+Arduino-IRremote
 ================
 
-use Ardunio to control TV ON or OFF
+use Arduino to control TV ON or OFF
